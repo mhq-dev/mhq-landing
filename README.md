@@ -1,7 +1,7 @@
 # MHQ Landing Page
 Software Engineering Spring 2021 Project - Landing Page
 ## Description
-A simple landing page developed for our project. Consists of login/signup redirection to the main app, featurs list, team members and so on.
+A simple landing page developed for our project. Consists of login/signup redirection to the main app, features list, team members and so on.
 
 ## Tech Stack
 - JavaScript
